@@ -5,7 +5,6 @@
 <div align="center">
   <p>基于Python的《红楼梦》文本数据处理与可视化分析项目 | A Python-based text data processing and visualization analysis project for "Dream of the Red Chamber"</p>
 </div>
----
 
 ![logo](./assets/logo.png)
 

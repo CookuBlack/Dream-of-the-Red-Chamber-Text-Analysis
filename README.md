@@ -5,9 +5,14 @@
 <div align="center">
   <p>基于Python的《红楼梦》文本数据处理与可视化分析项目 | A Python-based text data processing and visualization analysis project for "Dream of the Red Chamber"</p>
 </div>
+---
+
 ![logo](./assets/logo.png)
 
+---
+
 ## 项目简介 | Project Introduction
+
 该仓库记录的是笔者大学期间的Python期末考核实战项目，以古典名著《红楼梦》为分析对象，实现了文本数据的清洗、处理与多维度可视化分析。
 
 本项目仅作为**学习参考**用途，代码实现偏向基础实战，可能存在优化空间，笔者开源的初衷是留存学习笔记、方便日后复盘，也希望能为初学Python数据分析的同学提供参考案例。
